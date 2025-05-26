@@ -1,0 +1,5 @@
+llama-cpp-python
+langchain>=0.1.0
+chromadb
+sentence-transformers
+PyMuPDF==1.23.7
